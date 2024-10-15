@@ -33,13 +33,7 @@ The **Doctor's Appointment Management System** is a web-based platform designed 
 
 2. Set up your db credentials:
    - Set the database credentials in the `./apis/db.php` file:
-     ```bash
-   $host = '';
-   $db = '';
-   $user = '';
-   $pass = '';
-     ```
-
+     
 3. Import the database schema SQL file is provided in db folder
 
 6. Open your browser and visit:
